@@ -33,3 +33,4 @@ References and future explorations:
  - https://jzhao.xyz/posts/bft-json-crdt/
  - How CRDTs make multiplayer text editing part of Zed's DNA https://zed.dev/blog/crdts
  - Keep CALM and CRDT On https://t.co/clYGvdvmw0
+ - Peritext https://www.inkandswitch.com/peritext/ https://x.com/i/status/1958203836738265405
